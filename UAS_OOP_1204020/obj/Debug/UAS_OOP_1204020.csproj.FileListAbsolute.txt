@@ -1,0 +1,4 @@
+c:\users\asus\documents\visual studio 2015\Projects\UAS_OOP_1204020\UAS_OOP_1204020\bin\Debug\UAS_OOP_1204020.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\UAS_OOP_1204020\UAS_OOP_1204020\obj\Debug\UAS_OOP_1204020.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\UAS_OOP_1204020\UAS_OOP_1204020\obj\Debug\UAS_OOP_1204020.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\UAS_OOP_1204020\UAS_OOP_1204020\obj\Debug\UAS_OOP_1204020.csproj.GenerateResource.Cache
